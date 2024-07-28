@@ -12,8 +12,6 @@ h1{
 
 h1, .brand{
     background-image: URL('./Images/pattern.png');
-    
-
 }
 
 h2{
@@ -42,4 +40,17 @@ h3{
 aside{
     font-weight: bold;
     color: blue;
+}
+
+/* figure, .picture{
+    text-align: left;
+} */
+
+/* img{
+    position: relative;
+} */
+
+.picture{
+    display: inline-block;
+    text-align: left;
 }
