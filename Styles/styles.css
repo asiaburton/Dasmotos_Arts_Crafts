@@ -42,6 +42,7 @@ aside{
 }
 
 .caption{
+    padding-top: 20px;
     color: black;
     font-weight: bold;
 }
